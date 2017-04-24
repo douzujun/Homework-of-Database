@@ -1,0 +1,10 @@
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\bin\Debug\LoginDatabase.exe.config
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.Login.resources
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.Properties.Resources.resources
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.csproj.GenerateResource.Cache
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\bin\Debug\LoginDatabase.exe
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\bin\Debug\LoginDatabase.pdb
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.exe
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.pdb
+G:\Visual Studio 2013\C#Project\LoginDatabase\LoginDatabase\obj\Debug\LoginDatabase.Register.resources
